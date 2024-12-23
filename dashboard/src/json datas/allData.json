@@ -1,0 +1,103 @@
+{
+  "incomeHistory": [
+    {
+      "amountFiat": "122000",
+      "date": "19 March, 2024",
+      "amountCrypto": "0.005863",
+      "totalIsFiat": true
+    },
+    {
+      "amountFiat": "20000",
+      "date": "08 March, 2024",
+      "amountCrypto": "0.0230000",
+      "totalIsFiat": false
+    },
+    {
+      "amountFiat": "27000",
+      "date": "08 March, 2024",
+      "amountCrypto": "0.006854",
+      "totalIsFiat": false
+    }
+  ],
+
+  "expensesHistory": [
+    {
+      "amountFiat": "50300",
+      "date": "15 March, 2024",
+      "amountCrypto": "0.003142",
+      "totalIsFiat": false
+    },
+    {
+      "amountFiat": "120000",
+      "date": "10 March, 2024",
+      "amountCrypto": "0.000354",
+      "totalIsFiat": true
+    },
+    {
+      "amountFiat": "15000",
+      "date": "09 March, 2024",
+      "amountCrypto": "0.000345",
+      "totalIsFiat": false
+    }
+  ],
+
+  "investmentsHistory": [
+    {
+      "amountFiat": "1820000",
+      "date": "17 March, 2024",
+      "amountCrypto": "90.66",
+      "totalIsFiat": false
+    },
+    {
+      "amountFiat": "650000",
+      "date": "12 March, 2024",
+      "amountCrypto": "92.544",
+      "totalIsFiat": true
+    },
+    {
+      "amountFiat": "135000",
+      "date": "10 March, 2024",
+      "amountCrypto": "15.00566",
+      "totalIsFiat": true
+    }
+  ],
+
+  "SMSNotification": [
+    {
+      "category": "income",
+      "title": "Bonus Payment",
+      "message": "$1,500 bonus added to your account",
+      "timestamp": "yesterday"
+    },
+    {
+      "category": "expenses",
+      "title": "Utility Bill",
+      "message": "$120 paid for electricity bill",
+      "timestamp": "1 days ago"
+    },
+    {
+      "category": "investments",
+      "title": "Dividend Payout",
+      "message": "$111,250 received from your Apple (AAPL) holdings",
+      "timestamp": "3 days ago"
+    },
+    {
+      "category": "income",
+      "title": "Consulting Fee",
+      "message": "$3,000 payment received for consulting services",
+      "timestamp": "4 days ago"
+    },
+    {
+      "category": "expenses",
+      "title": "Groceries Purchase",
+      "message": "$180 spent on weekly groceries",
+      "timestamp": "5 days ago"
+    },
+    {
+      "category": "investments",
+      "title": "Portfolio Update",
+      "message": "You added 90 BTC to your portfolio",
+      "timestamp": "1 week ago"
+    }
+  ]
+}
